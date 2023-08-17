@@ -1,4 +1,5 @@
 NodexPlus validator
+
 I am individual Proof of Stake Network validator and crypto enthusiast.
 
 🔹My Testnet validators and nodes:
