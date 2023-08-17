@@ -1,10 +1,9 @@
-##NodexPlus validator
+NodexPlus validator
 I am individual Proof of Stake Network validator and crypto enthusiast.
 
-####🔹My Testnet validators and nodes:
+🔹My Testnet validators and nodes:
 
 [Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1awsn8q5zy4zyz2ahxwqdwjfwa6dhs44l9q98yx)
-
 
 [Defund](https://defund.explorers.guru/validator/defundvaloper1up84tztxdw56h2n7nx5mka5qw0snpas5ud037d)
 
@@ -16,8 +15,8 @@ I am individual Proof of Stake Network validator and crypto enthusiast.
 
 [Gear (NodexPlus)](https://telemetry.gear-tech.io/#/0x92ed36f0a4a26169cba7c6990d51055c76b6b89de268568615a041eebb619a0e)
 
-#####🔹My Other current testnets:
+🔹My Other current testnets:
 Massa, Shardeum, Holograph, Starknet,  Penumbra
 
-#####Arxiv testnets
+Arxiv testnets
 Realio, Sui, EmprowerChain, Iron Fish, Gitopia
