@@ -6,8 +6,6 @@ I am individual Proof of Stake Network validator and crypto enthusiast.
 
 [Andromeda](https://andromeda.explorers.guru/validator/andrvaloper1awsn8q5zy4zyz2ahxwqdwjfwa6dhs44l9q98yx)
 
-[Defund](https://defund.explorers.guru/validator/defundvaloper1up84tztxdw56h2n7nx5mka5qw0snpas5ud037d)
-
 [Nibiru](https://nibiru.explorers.guru/validator/nibivaloper1p830jwfv6vkff0lpzxs44cyjjxhaf7nrn47msl)
 
 [Cascadia](https://testnet.cascadia.explorers.guru/validator/cascadiavaloper1jg4gvde5u3f95gm5qctv9cct7cmrjrp08nmyms)
@@ -20,4 +18,4 @@ I am individual Proof of Stake Network validator and crypto enthusiast.
 Massa, Shardeum, Holograph, Starknet,  Penumbra
 
 ## Arxiv testnets
-Realio, Sui, EmprowerChain, Iron Fish, Gitopia
+Defund, Realio, Sui, EmprowerChain, Iron Fish, Gitopia
