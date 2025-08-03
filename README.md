@@ -3,7 +3,7 @@
 I am individual Proof of Stake Network validator and crypto enthusiast.
 
 ## 🔹My Mainnets: 
-Massa
+Lido-Obol SDVT
 
 ## 🔹My Testnet validators and nodes:
 
